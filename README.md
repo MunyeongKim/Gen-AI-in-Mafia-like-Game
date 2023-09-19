@@ -1,6 +1,6 @@
 # Gen-AI-in-Mafia-like-Game
 This is the repository for codes, scripts and output data of "Generative AI in Mafia-like Game Simulation" by Munyeong Kim and Sungsu Kim.
-Open "Data" folder and there will be 3 different files, which are for:
+There are 3 different files in "Data" folder:
 
 1. Ex1. All responses of gpt-3.5-turbo (as GPT-4 haven't shown any errors in our samples) are provided, and we categorized which type of error(s) each response contains by True/False.
 It would help you how many and various types of errors are in them, which makes utilizing it difficult.
